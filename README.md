@@ -20,18 +20,22 @@
 Skills: HTML, CSS, JS, BOOTSTRAP, JQUERY, PHP, MYSQL
 
 
-### Languages and Tools:
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="25" height="25"/> </a>   
-  <a href="https://www.javascripttutorial.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a> 
- </p>
-
-
 ### Contact with Me:
-[<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100039596015825)
-[<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg' alt='github' height='30'>](https://github.com/A-for-Alamin) 
+<div align="center">
+  
+[<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg' alt='facebook' height='30' width="40">](https://www.facebook.com/profile.php?id=100039596015825)
+[<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg' alt='github' height='30' width="40">](https://github.com/A-for-Alamin) 
+</div>
 
+<h3 align="left"> Use Languages and Tools: </h3>
+<div align="center">
+  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-badge&labelColor=black&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-badge&labelColor=black&logo=css3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-badge&labelColor=black&logo=bootstrap&logoColor=563D7C)
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![JQuery](https://img.shields.io/badge/JQUERY-0868AC?style=for-badge&labelColor=black&logo=JQUERY&logoColor=0868AC)
+![PHP](https://img.shields.io/badge/PHP-777BB3?style=for-badge&labelColor=black&logo=PHP&logoColor=777BB3)
+![MYSQL](https://img.shields.io/badge/MYSQL-f29111?style=for-badge&labelColor=black&logo=MYSQL&logoColor=00758)
+
+ </div>
