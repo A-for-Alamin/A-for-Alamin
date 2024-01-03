@@ -14,6 +14,7 @@
 
 - 🌱 I’m currently learning JavaScript 
 - 💬 Ask me about HTML5, CSS3, JS
+- 📫 How to reach me **alaminmridha2004@gmail.com**
 
   
 
