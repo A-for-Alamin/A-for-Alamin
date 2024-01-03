@@ -32,6 +32,6 @@ Skills: HTML / CSS / JS / BOOTSTRAP / JQUERY / PHP / MYSQL
 
 
 ### Contact with Me:
-[<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100039596015825)  
+[<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100039596015825)
 [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg' alt='github' height='30'>](https://github.com/A-for-Alamin) 
 
