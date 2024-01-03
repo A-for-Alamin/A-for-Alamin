@@ -17,7 +17,7 @@
 
   
 
-Skills: HTML / CSS / JS / BOOTSTRAP / JQUERY / PHP / MYSQL
+Skills: HTML, CSS, JS, BOOTSTRAP, JQUERY, PHP, MYSQL
 
 
 ### Languages and Tools:
