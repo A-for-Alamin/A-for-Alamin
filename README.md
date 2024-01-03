@@ -1,7 +1,6 @@
-(https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
+![I am Junior Web desiner & web developer...](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
 ### Hi there 👋, Assalamualaiku
 #### I am Junior Web desiner & web developer...
-![I am Junior Web desiner & web developer...]
 
 I made this project just for fun, it allows you to create nice and simple.
 
