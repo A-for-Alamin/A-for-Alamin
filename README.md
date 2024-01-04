@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 <!-- ![I am Junior Web desiner & web developer...](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
 ![A-for-Alamin](https://github.com/harun181/harun181/blob/main/code.png) -->
 
+=======
+>>>>>>> 2047ad78b6c6f01c2639f69e66443db47de0b0e0
 ![A-for-Alamin](https://github.com/A-for-Alamin/A-for-Alamin/blob/main/A-for-Alamin_github_banner.png)
 
 <h1 align="center"> Hi there 👋, Assalamualaikum </h1>
