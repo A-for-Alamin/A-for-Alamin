@@ -1,7 +1,7 @@
 ![A-for-Alamin](https://github.com/A-for-Alamin/A-for-Alamin/blob/main/A-for-Alamin_github_banner.png)
 
 
-@media (max-width:768px) {![A-for-Alamin](https://github.com/A-for-Alamin/A-for-Alamin/blob/main/A-for-Alamin_github_banner.jpeg)}
+![A-for-Alamin](https://github.com/A-for-Alamin/A-for-Alamin/blob/main/A-for-Alamin_github_banner.jpeg)
 
 
 <h1 align="center"> Hi there 👋, Assalamualaikum </h1>
