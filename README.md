@@ -1,8 +1,19 @@
-![A-for-Alamin](https://github.com/A-for-Alamin/A-for-Alamin/blob/main/A-for-Alamin_github_banner.png)
+<!-- ![A-for-Alamin](https://github.com/A-for-Alamin/A-for-Alamin/blob/main/A-for-Alamin_github_banner.png)
 
 
-![A-for-Alamin](https://github.com/A-for-Alamin/A-for-Alamin/blob/main/A-for-Alamin_github_banner.jpeg)
+![A-for-Alamin](https://github.com/A-for-Alamin/A-for-Alamin/blob/main/A-for-Alamin_github_banner.jpeg)-->
 
+
+<div>
+  <img id="responsive_image" src="https://github.com/A-for-Alamin/A-for-Alamin/blob/main/A-for-Alamin_github_banner.png">
+</div>
+
+<style>
+  @media (max-width: 768px) {
+    #responsive_image{
+      width:50%;
+  }
+</style>
 
 <h1 align="center"> Hi there 👋, Assalamualaikum </h1>
 
