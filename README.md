@@ -4,7 +4,7 @@
 <!-- ![A-for-Alamin](https://github.com/A-for-Alamin/A-for-Alamin/blob/main/A-for-Alamin_github_banner.jpeg) -->
 
 
-<h1 align="center"> Hi there 👋, Assalamualaikum </h1>
+<h1 align="center"> Hi there 👋, Assalamu Alaikum </h1>
 
 <h3 align="center"> I am Junior Web Desiner & Web Developer </h3>
 
