@@ -22,7 +22,7 @@
 
   
 
-Skills: HTML, CSS, JS, BOOTSTRAP, JQUERY, PHP, MYSQL
+Skills: HTML, CSS, BOOTSTRAP, Tailwind, Sass, JavaScript, React JS, MYSQL etc.
 
 
 ### Contact with Me:
